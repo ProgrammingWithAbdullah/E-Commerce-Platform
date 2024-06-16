@@ -1,7 +1,10 @@
-<h3 align="center">
-Seamless shopping, search and explore different product categories, add products to cart, and checkout swiftly. <br>
+<h2>Abdullah's Kingdom</h2> <br><br>
+<h3>Free & Efficient E-Commerce Platform</h3>
+
+<h4 align="center">
+Seamless shopping, search and explore different product categories, add products to cart, and checkout swiftly.
 Become a seller and add products, monitor sales, and gather customer feedback.
-</h3>
+</h4>
 
 <br>
 
